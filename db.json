@@ -89,6 +89,15 @@
       "yop": "1996",
       "availability": true,
       "img": "https://i.imgur.com/KSJPlqM.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Enchantment, The Art of Changing Heart, Mind and Actions ",
+      "author": "Guy Kawasaki",
+      "genre": "Art",
+      "yop": "1996",
+      "availability": true,
+      "img": "https://i.imgur.com/KSJPlqM.jpg"
     }
   ]
 }
